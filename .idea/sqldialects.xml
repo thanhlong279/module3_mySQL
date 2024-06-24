@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/src/furama_resort/updata_furama_resort.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/management_resort_furama/ex_query_furama_resort.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/management_resort_furama/update_information.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/management_student/db_management_student.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/management_student/query_database.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ss2_thietke_tao_CSDL/exercise/ex1_order_management.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ss2_thietke_tao_CSDL/practice/pr2_quanly_diemthi.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ss2_thietke_tao_CSDL/practice/pr3_quanly_sinhvien.sql" dialect="MySQL" />
@@ -16,5 +18,7 @@
     <file url="file://$PROJECT_DIR$/src/ss3_thaotacvoi_CSDL/pr2_query_database_management_student.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ss4_ham_SQL/ex1_hamthongdung_SQL.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/ss4_ham_SQL/pr1_hamthongdung_SQL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ss5_view_index_sp/mysqlsampledatabase.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/ss5_view_index_sp/pr1_index_MySQL.sql" dialect="MySQL" />
   </component>
 </project>

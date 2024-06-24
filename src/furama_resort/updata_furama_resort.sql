@@ -121,5 +121,12 @@ value
     (7, 2, 1, 2),
     (8, 2, 12, 2);
 
+SET FOREIGN_KEY_CHECKS = 0;
 
+truncate table hopdongchitiet;
+truncate table hopdong;
+truncate table khachhang;
+truncate table nhanvien;
+
+SET FOREIGN_KEY_CHECKS = 1;
 
